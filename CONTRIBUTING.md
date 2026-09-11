@@ -16,7 +16,7 @@ This project follows a [Code of Conduct](./CODE_OF_CONDUCT.md). Participation re
 ### Setup
 
 ```bash
-git clone https://github.com/harpertoken/omnitype.git
+git clone https://github.com/coccinella-labs/omnitype.git
 cd omnitype
 rustup install nightly
 cargo install cargo-udeps cargo-audit
