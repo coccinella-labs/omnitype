@@ -58,7 +58,7 @@ jobs:
               echo "" >> CHANGES.md
               echo "This is the first release of omnitype!" >> CHANGES.md
               echo "" >> CHANGES.md
-              echo "Learn more about Harper Token: https://github.com/harpertoken" >> CHANGES.md
+              echo "Learn more about Harper Token: https://github.com/coccinella-labs" >> CHANGES.md
               echo "" >> CHANGES.md
               echo "### All Commits" >> CHANGES.md
               git log --pretty=format:'- %h %s (%an)' --reverse >> CHANGES.md

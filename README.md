@@ -76,4 +76,4 @@ git push --force-with-lease
 
 The git history has been rewritten to follow these standards.
 
-— @omnitype by [harper](https://github.com/harpertoken)
+— @omnitype by [harper](https://github.com/coccinella-labs)
